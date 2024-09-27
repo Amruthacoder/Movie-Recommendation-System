@@ -1,0 +1,5 @@
+outs:
+- md5: 4f805bd97092f0a8a207d0663d6cb428
+  size: 5501
+  hash: md5
+  path: movie.csv
